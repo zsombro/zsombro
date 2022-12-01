@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zsombro
-- 👀 I’m interested in frontend development, UX research & design, functional programming, also everything on the cutting edge: software architectures, design patterns, new languages and tools
+- 👀 I’m interested in frontend development, UX/UI design, functional programming, also everything on the cutting edge: software architectures, design patterns, new languages and tools
+- I also really like music production 🎛, guitars 🎸 and game design 🎮
 - 🌱 I’m currently learning how to not do a trillion things at once
 - 📫 How to reach me: berki.zsombor@gmail.com
 
